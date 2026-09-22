@@ -52,3 +52,9 @@ int main()
 
     return 0;
 }
+// Enter IPv4 address: 192.168.1.1
+// Valid IP: Yes
+// First Byte: 192
+// Class: C
+// NetID: 192.168.1.0
+// HostID: 0.0.0.1
